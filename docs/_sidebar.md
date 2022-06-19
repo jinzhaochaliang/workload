@@ -14,5 +14,6 @@
 * 编译器
     * [简介](content/compiler/readme)
 * [论文](content/paper)
+* [项目](content/project)
 * [链接](content/link)
 * [其他](content/other)
